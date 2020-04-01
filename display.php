@@ -20,19 +20,16 @@
         </div>
         </div>
         <!--header ends-->
-<!--container-->
+<center>
+  <!--container-->
 <div class="container">
 <p id="main_p">You’re at the end of our survey. Thank you for taking the time to share your feedback.</p>
 </div>
 <!--container Ends-->
+</center>
 <br><br><br>
  <!--footer start here-->
- <footer class="footer">
-      <div class="progress">
-          <div class="progress-bar progress-bar-danger active" role="progressbar" aria-valuemin="0" aria-valuemax="100">
-          </div>
-        </div>
-    </footer>
+ <footer class="footer"></footer>
     <!--footer ends here-->
     
 </body>
