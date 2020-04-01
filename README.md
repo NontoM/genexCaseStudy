@@ -1,15 +1,6 @@
 GENEX SURVEY
 
-This is the front-end of the survey(form),that I implemented using PHP 7+, HTML & CSS, Bootstrap v4.0 and Jquery 
-
-PHP:  is a server side scripting language that is used to develop Static websites or Dynamic websites or Web applications.
-PHP scripts can only be interpreted on a server that has PHP installed.
-
-HTML: HTML is used to create and save web document. E.g. Notepad/Notepad++
-
-CSS : (Cascading Style Sheets) Create attractive Layout
-
-Bootstrap : responsive design mobile freindly site
+A multi-step form is a long-form that is broken into pieces. The reason for doing this is to make the form easier to complete. Each step represents grouped inputs that are related to each other, so users are not frightened by the length of the form. It might be more comfortable for users to fill the information step by step because their minds should process fewer fields at the time.
 
 Jquery:  is a lightweight, "write less, do more", JavaScript library. The purpose of jQuery is to make it much easier to use JavaScript on a website.
 
