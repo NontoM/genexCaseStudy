@@ -1,0 +1,27 @@
+.page-header{
+    width:100%;
+    background-color:#C10A27;
+    border-bottom:1px solid #C0C1C0;
+    z-index: 5000;
+    display: block;
+    height:90px;
+    margin-top:-1px;
+}
+img{
+    margin-bottom:-20px; 
+    border-top:1px solid #C0C1C0; 
+    border-bottom:1px solid #C0C1C0; 
+  }
+.footer{
+    width: 100%;
+    color: #fff;
+    text-align: center;
+    height: 50px;
+    background-color: #515353;
+    padding-top: 18px;
+    position: fixed;
+    top: calc(100% - 50px);
+    border-top: 1px solid #C0C1C0;
+    z-index: 5000;
+    
+}
